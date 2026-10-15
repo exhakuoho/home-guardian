@@ -7,7 +7,7 @@
 ## 線上展示
 
 - 產品展示頁：https://home.designjarvis.com/homeguardian/
-- 後台控制台：https://home.designjarvis.com/homeguardian/console.html
+- 後台控制台：https://home.designjarvis.com/homeguardian/console
 
 ## 檔案
 
